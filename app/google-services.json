@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "724441291092",
+    "project_id": "lucid-ceremony-129422"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724441291092:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFyN1mqZVkPr2AtuWiavLtX4aGE_40QI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
